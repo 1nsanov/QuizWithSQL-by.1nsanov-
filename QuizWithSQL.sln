@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizWithSQL", "QuizWithSQL.csproj", "{905E3591-84F1-4284-A338-8ACCE9444CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905E3591-84F1-4284-A338-8ACCE9444CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905E3591-84F1-4284-A338-8ACCE9444CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905E3591-84F1-4284-A338-8ACCE9444CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905E3591-84F1-4284-A338-8ACCE9444CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42778F09-E0F2-48D8-90D2-1719B408930B}
+	EndGlobalSection
+EndGlobal
